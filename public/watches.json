@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Classic Diamond", "price": 150 },
+    { "id": 2, "name": "Elegant Gold", "price": 200 },
+    { "id": 3, "name": "Black Leather", "price": 180 },
+    { "id": 4, "name": "Minimalist White", "price": 170 },
+    { "id": 5, "name": "Luxury Chrono", "price": 250 }
+  ]
+  
